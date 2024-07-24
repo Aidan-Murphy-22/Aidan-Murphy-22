@@ -1,10 +1,7 @@
 - 👋 Hi, I’m @Aidan-Murphy-22
 - 👀 I’m interested in working out, golf, snowboarding, and hanging out with my close friends and family.
-- 🌱 I’m currently learning html, css, and javascript.
-- 💞️ I’m looking to collaborate on ...
+- 🌱 I’m currently learning HTML, CSS,Javascript, React, Node.js, and using MySQL and MongoDB.
 - 📫 How to reach me email: aidan2022.murphy@gmail.com
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
 
 <!---
 Aidan-Murphy-22/Aidan-Murphy-22 is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
